@@ -5,6 +5,7 @@ from matplotlib import cm
 import numpy as np
 
 
+#toggle name to desired player 
 
 player_to_chart = "Kirill Kaprizov"
 team_of_player = "MIN"
